@@ -1,6 +1,7 @@
 
 # Brain Tumor Classification Using Hybrid ViT + GRU with Explainable AI
 
+🚀 **Live Demo:** [Click here to explore the application]((https://brain-tumor-classification-xai-bb9t677pnwm9bvcvsmmpqy.streamlit.app/))
 ## Overview
 An academic project that classifies brain MRI images into four categories using a Hybrid Vision Transformer and GRU model.
 
